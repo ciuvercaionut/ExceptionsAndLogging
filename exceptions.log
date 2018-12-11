@@ -1,0 +1,12 @@
+Dec 11, 2018 7:33:00 PM com.exceptionsandlogging.siit.StudentRepository addStudent
+INFO: This Date of birth does not correspond.
+Dec 11, 2018 7:33:00 PM com.exceptionsandlogging.siit.StudentRepository addStudent
+SEVERE: Dob not in range.
+Dec 11, 2018 7:33:00 PM com.exceptionsandlogging.siit.StudentRepository addStudent
+INFO: First name and Last name should not be empty!
+Dec 11, 2018 7:33:00 PM com.exceptionsandlogging.siit.StudentRepository addStudent
+SEVERE: First and Last name should not be empty.
+Dec 11, 2018 7:33:00 PM com.exceptionsandlogging.siit.StudentRepository addStudent
+INFO: Gender is not right
+Dec 11, 2018 7:33:00 PM com.exceptionsandlogging.siit.StudentRepository addStudent
+SEVERE: This gender does not exist.
